@@ -1,0 +1,55 @@
+﻿<Page x:Class="Task_Management_App.UserManagement"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Task_Management_App"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="700"
+      Title="UserManagement" Background="White">
+
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="200"/>
+        </Grid.RowDefinitions>
+
+        <Grid>
+
+            <Label Content="TaskID :" Width="95" Height="40" FontSize="24" FontWeight="DemiBold" Margin="46,32,559,228"/>
+            <TextBox Name="taskID_field" Background="LightGray" FontSize="20" Width="60" Height="25" Margin="159,47,481,228"/>
+
+            <Label Content="Title :" Width="95" Height="40" FontSize="24" FontWeight="DemiBold" Margin="46,91,559,169"/>
+            <TextBox Name="title_field" Background="LightGray" FontSize="20" Width="130" Height="30" Margin="131,101,439,169"/>
+
+
+            <Label Content="Description :" Width="150" Height="40" FontSize="24" FontWeight="DemiBold" Margin="46,147,504,113"/>
+            <TextBox Name="description_field" Background="LightGray" FontSize="20" Width="200" Height="30" Margin="214,157,286,113"/>
+
+
+            <Label Content="Status :" Width="95" Height="40" FontSize="24" FontWeight="DemiBold" Margin="367,32,238,228"/>
+            <ComboBox Name="Combo_box_status" Width="150" Height="40" Margin="499,40,51,220" >
+                <ComboBoxItem Content="Completed"/>
+                <ComboBoxItem Content="Pending"/>
+                <ComboBoxItem Content="In Progress"/>
+            </ComboBox>
+
+
+            <Label Content="Emp Email :" Width="150" Height="40" FontSize="24" FontWeight="DemiBold" Margin="367,91,183,169"/>
+            <TextBox Name="emp_email_field" Background="LightGray" FontSize="20" Width="150" Height="30" Margin="522,101,28,169"/>
+
+            <Button Content="Add" FontSize="24" Width="100" Height="40" Margin="96,234,504,26" Click="Add_button"/>
+            <Button Content="Update" FontSize="24" Width="100" Height="40" Margin="300,234,300,26" Click="Update_button"/>
+            <Button Content="Delete" FontSize="24" Width="100" Height="40" Margin="524,234,76,26" Click="Delete_button"/>
+
+        </Grid>
+
+
+        <Grid Grid.Row="1">
+            <DataGrid Name="data_grid_all" Margin="10,10,10,10"/>
+        </Grid>
+
+        
+    </Grid>
+</Page>

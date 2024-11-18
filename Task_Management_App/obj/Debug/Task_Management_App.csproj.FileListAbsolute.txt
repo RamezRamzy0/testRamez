@@ -1,0 +1,81 @@
+D:\Programming Language\C# Desktop\Task_Management_App\bin\Debug\Task_Management_App.exe.config
+D:\Programming Language\C# Desktop\Task_Management_App\bin\Debug\Task_Management_App.exe
+D:\Programming Language\C# Desktop\Task_Management_App\bin\Debug\Task_Management_App.pdb
+D:\Programming Language\C# Desktop\Task_Management_App\bin\Debug\EntityFramework.dll
+D:\Programming Language\C# Desktop\Task_Management_App\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming Language\C# Desktop\Task_Management_App\bin\Debug\EntityFramework.xml
+D:\Programming Language\C# Desktop\Task_Management_App\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming Language\C# Desktop\Task_Management_App\obj\Debug\Task_Management_App.csproj.AssemblyReference.cache
+D:\Programming Language\C# Desktop\Task_Management_App\obj\Debug\Login.g.cs
+D:\Programming Language\C# Desktop\Task_Management_App\obj\Debug\MainWindow.g.cs
+D:\Programming Language\C# Desktop\Task_Management_App\obj\Debug\UserManagement.g.cs
+D:\Programming Language\C# Desktop\Task_Management_App\obj\Debug\ViewTasks.g.cs
+D:\Programming Language\C# Desktop\Task_Management_App\obj\Debug\App.g.cs
+D:\Programming Language\C# Desktop\Task_Management_App\obj\Debug\Task_Management_App_Content.g.cs
+D:\Programming Language\C# Desktop\Task_Management_App\obj\Debug\Task_Management_App_MarkupCompile.cache
+D:\Programming Language\C# Desktop\Task_Management_App\obj\Debug\Task_Management_App_MarkupCompile.lref
+D:\Programming Language\C# Desktop\Task_Management_App\obj\Debug\Login.baml
+D:\Programming Language\C# Desktop\Task_Management_App\obj\Debug\MainWindow.baml
+D:\Programming Language\C# Desktop\Task_Management_App\obj\Debug\UserManagement.baml
+D:\Programming Language\C# Desktop\Task_Management_App\obj\Debug\ViewTasks.baml
+D:\Programming Language\C# Desktop\Task_Management_App\obj\Debug\Task_Management_App.g.resources
+D:\Programming Language\C# Desktop\Task_Management_App\obj\Debug\Task_Management_App.Properties.Resources.resources
+D:\Programming Language\C# Desktop\Task_Management_App\obj\Debug\Task_Management_App.csproj.GenerateResource.cache
+D:\Programming Language\C# Desktop\Task_Management_App\obj\Debug\Task_Management_App.csproj.CoreCompileInputs.cache
+D:\Programming Language\C# Desktop\Task_Management_App\obj\Debug\Task_Man.40A2390D.Up2Date
+D:\Programming Language\C# Desktop\Task_Management_App\obj\Debug\Task_Management_App.exe
+D:\Programming Language\C# Desktop\Task_Management_App\obj\Debug\Task_Management_App.pdb
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\bin\Debug\Task_Management_App.exe.config
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\bin\Debug\Task_Management_App.exe
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\bin\Debug\Task_Management_App.pdb
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\bin\Debug\EntityFramework.dll
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\bin\Debug\EntityFramework.xml
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Task_Management_App.csproj.AssemblyReference.cache
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Login.g.cs
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\MainWindow.g.cs
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\UserManagement.g.cs
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\ViewTasks.g.cs
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\App.g.cs
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Task_Management_App_Content.g.cs
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Task_Management_App_MarkupCompile.cache
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Task_Management_App_MarkupCompile.lref
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Login.baml
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\MainWindow.baml
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\UserManagement.baml
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\ViewTasks.baml
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Task_Management_App.g.resources
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Task_Management_App.Properties.Resources.resources
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Task_Management_App.csproj.GenerateResource.cache
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Task_Management_App.csproj.CoreCompileInputs.cache
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Task_Man.40A2390D.Up2Date
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Task_Management_App.exe
+C:\Users\guest.admission\Desktop\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Task_Management_App.pdb
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\bin\Debug\Task_Management_App.exe.config
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\bin\Debug\Task_Management_App.exe
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\bin\Debug\Task_Management_App.pdb
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\bin\Debug\EntityFramework.dll
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\bin\Debug\EntityFramework.xml
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Task_Management_App.csproj.AssemblyReference.cache
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Login.g.cs
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\MainWindow.g.cs
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\UserManagement.g.cs
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\ViewTasks.g.cs
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\App.g.cs
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Task_Management_App_Content.g.cs
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Task_Management_App_MarkupCompile.cache
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Task_Management_App_MarkupCompile.lref
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Login.baml
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\MainWindow.baml
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\UserManagement.baml
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\ViewTasks.baml
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Task_Management_App.g.resources
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Task_Management_App.Properties.Resources.resources
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Task_Management_App.csproj.GenerateResource.cache
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Task_Management_App.csproj.CoreCompileInputs.cache
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Task_Man.40A2390D.Up2Date
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Task_Management_App.exe
+D:\Tasks\Study\Desk Top\Nour El den Moahmed 0523066  W4\Task_Management_App\obj\Debug\Task_Management_App.pdb
